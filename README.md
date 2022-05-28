@@ -1,3 +1,3 @@
-My First Builder Web
+Osuu~
 
-Link for Preview : https://yanasbruh.github.io/Travels.github.io/
+Link for Preview : https://yanasbruh.github.io/Travelskuy/
